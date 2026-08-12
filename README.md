@@ -21,7 +21,7 @@ python hirst_painting.py
 
 ## Output
 
-![Hirst Painting Output](hirst-game-output.png)
+![Hirst Painting Output](hist-game-output.png)
 
 ## Notes
 
